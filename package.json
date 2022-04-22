@@ -1,0 +1,11 @@
+{
+  "name": "turbobot",
+  "version": "1.0.0",
+  "description": "The js incarnation of the Turbo AF music bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Libra",
+  "license": "ISC"
+}
